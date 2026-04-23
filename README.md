@@ -110,8 +110,8 @@ Phần đánh giá tập trung vào việc **phân tích, so sánh kết quả**
 | :---: | :--- | :--- |
 | 1 | **Hứa Thị Ngọc Huyền** | Frontend & Web App Lead |
 | 2 | **Huỳnh Minh Trí** | Core Vision & Algorithm |
-| 3 | **[Phan Lê Trường An]** | Data & Backend API |
-| 4 | **[Phạm Duy Hoàng]** | QA, Evaluation & Report |
+| 3 | **Phan Lê Trường An** | Data & Backend API |
+| 4 | **Phạm Duy Hoàng** | QA, Evaluation & Report |
 
 ---
 *Mọi thao tác phát triển, cập nhật tiến độ đều được quản lý thông qua GitHub Issues và Project Board của repository này.*

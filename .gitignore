@@ -205,3 +205,26 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# --- Node.js (Cho phần React của em sau này) ---
+node_modules/
+dist/
+build/
+.env
+
+# --- Data ---
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# --- OS ---
+.DS_Store
+Thumbs.db
